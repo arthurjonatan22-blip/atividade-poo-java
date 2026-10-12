@@ -37,5 +37,6 @@ src/
 - GitHub
 
 ## Autor
+    Arthur Jônatan Florêncio da Costa
 
 Projeto acadêmico desenvolvido para praticar os fundamentos da Programação Orientada a Objetos em Java.
